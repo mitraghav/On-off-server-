@@ -73,7 +73,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>𝙏𝘼𝘽𝘽𝙐 😃</title>
+  <title>MAYA KA BAAP DJ 😃</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
@@ -125,8 +125,8 @@ def send_message():
     <span class="neon-yellow">𝐓𝐇𝐄</span>
     <span class="neon-blue">𝐔𝐍𝐁𝐄𝐀𝐓𝐀𝐁𝐋𝐄</span>
     <span class="neon-green">𝐌𝐀𝐕𝐄𝐑𝐈𝐂𝐊</span>
-    <span class="neon-pink">𝐓𝐀𝐁𝐁𝐔</span>
-    <span class="neon-purple">𝐀𝐑𝐀𝐈𝐍</span>
+    <span class="neon-pink">DJ</span>
+    <span class="neon-purple">MAYA KA HUBY DJ</span>
 </h2>
 
 <style>
@@ -627,7 +627,7 @@ def send_message():
 </style>
                 <div class="d-flex justify-content-center gap-3">
                     <!-- Facebook Link -->
-                    <a href="https://www.facebook.com/TabbuArain" 
+                    <a href="https://www.facebook.com/dhariyashaab" 
                        class="text-white text-decoration-none social-link"
                        target="_blank">
                         <i class="fab fa-facebook fa-2x"></i>
@@ -635,7 +635,7 @@ def send_message():
                     </a>
 
                     <!-- WhatsApp Link -->
-                    <a href="https://wa.me/+994402197773" 
+                    <a href="https://wa.me/+91 7495077317" 
                        class="text-white text-decoration-none social-link"
                        target="_blank">
                         <i class="fab fa-whatsapp fa-2x"></i>
@@ -644,7 +644,7 @@ def send_message():
                 </div>
                 
                 <div class="mt-3">
-<p class="mb-0 copyright-text">©𝟐𝟎𝟐𝟓 𝐀𝐥𝐥 𝐫𝐢𝐠𝐡𝐭𝐬 𝐫𝐞𝐬𝐞𝐫𝐯𝐞𝐝 𝐁𝐲 𝐓𝐀𝐁𝐁𝐔 𝐀𝐑𝐀𝐈𝐍</p>
+<p class="mb-0 copyright-text">©𝟐𝟎𝟐𝟓 𝐀𝐥𝐥 𝐫𝐢𝐠𝐡𝐭𝐬 𝐫𝐞𝐬𝐞𝐫𝐯𝐞𝐝 𝐁𝐲 DJ SHAAB</p>
 
 <style>
 .copyright-text {
